@@ -1,0 +1,7 @@
+This folder contains AO bakes and UV maps for the models included in this pack. You can use them to make your own textures if so desired.
+
+Some attachments share textures with others, or with the weapon to which they are attached. In Volume 1 - Small Arms, these models share textures:
+
+* Pistol - Base weapon + Clip; Sight + Flashlight
+* Revolver - Flashlight + Laser
+* Uzi - Clip + Scope + Crosshair; Folding stock + Hinged stock
