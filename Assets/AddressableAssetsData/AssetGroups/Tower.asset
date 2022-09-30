@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Tower
+  m_EditorClassIdentifier: 
+  m_GroupName: Tower
+  m_Data:
+    m_SerializedData: []
+  m_GUID: f3655fe6bf060b145b3100a7ebf1edae
+  m_SerializeEntries:
+  - m_GUID: 2b731ad5670421147b09577af258c50d
+    m_Address: Tower/Tower_1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Tower
+  - m_GUID: ca2fe8c0ddda0364aa29dec80bfd72a2
+    m_Address: Tower/Tower_2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Tower
+  - m_GUID: 159dfb495015719479630e6d9ca3a836
+    m_Address: Tower/Tower_3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Tower
+  - m_GUID: 1d4d20f880dff684fa4d71ace28968e3
+    m_Address: Tower/Tower_4
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Tower
+  - m_GUID: 05f196a8ed927764ab6ef282c7fa8ed1
+    m_Address: Tower/Tower_5
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Tower
+  - m_GUID: 8654d908d7d10294a804220c73ab1407
+    m_Address: Tower/Tower_6
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Tower
+  - m_GUID: 9732f331f86950d4d82d9c6e047b6573
+    m_Address: Tower/Tower_7
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Tower
+  - m_GUID: e1afa7a775b63114984708bba1847e80
+    m_Address: Tower/Tower_8
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Tower
+  - m_GUID: 94caecd6f5340e64a9c054d2138e0984
+    m_Address: Tower/Tower_9
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Tower
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 9922ac055012e024a8252afba6d6baa8, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 46f858ee38d15fc40a529da733b11abc, type: 2}
+    - {fileID: 11400000, guid: 43ccc9fb856afff419310076cb12c5e8, type: 2}
