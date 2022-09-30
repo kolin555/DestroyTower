@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5eb458c143b89b74ca40b7d74cbf7294
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - btn_animator: {instanceID: 0}
+  - camera_system: {instanceID: 0}
+  - rect_transform: {instanceID: 0}
+  - check_camera: {instanceID: 0}
+  - on_clip: {fileID: 8300000, guid: 0a82b1eb0c745384887fb06e253c5511, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

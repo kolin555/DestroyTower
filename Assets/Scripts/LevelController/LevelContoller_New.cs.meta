@@ -1,0 +1,26 @@
+<<<<<<< .mine
+fileFormatVersion: 2
+guid: 4b988b95b2e98964db0733d38da80edc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+||||||| .r0
+=======
+fileFormatVersion: 2
+guid: 1dd3aa002ed97634199478c51425344f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+>>>>>>> .r47744
